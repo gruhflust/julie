@@ -1,23 +1,24 @@
 # julie
 Dokumenterstellung über verschiedene Themen
-Ziel ist es, für Codex eine Struktur herzustellen, die bequem, direkt zur Texterstellung durch Codex genutzt werden kann. Dabei wird in einem iterativen Prozess ein Thema abgehandelt mit sukzessive komplexer werdendem Inhalt. Ich gebe das Thema vor und die Gesichtspunkte, mit denen Du dieses Thema behandeln und jeweils Kapitel bilden sollst.
 
-Thema: Kaizen im Unternehmenskontext
-Vorgaben: Das gesamte Dokument soll im repository als eine reihe von Ordnern mit zu erstellenden .md Dateien angelegt werden. Es sollte später möglichst einfach in ein Word Dokument konvertiertbar sein. Das Gesamte Dokument soll etwa 10 Seiten beinhalten. Ich möchte die Vorteile von Kaizen dokumentieren. Die Sprache soll sachlich professionell sein. Zu den einzelnen Kapiteln werden hints geliefert, die sich im Laufe der Zeit verfeinern werden. Es soll immer diese readme Datei als Prompt und Auftragsschnittstelle für codex genutzt werden. Korrigiere stets Rechtschreib- und Grammatikfehler auch in den Anweisungen in readme.md. Die Kapitelüberschriften müssen nicht übernommen werden sondern dienen als Inhaltsdefinition.
+Ziel ist es, für Codex eine Struktur zu schaffen, die direkt zur Texterstellung genutzt werden kann. Dabei wird ein Thema iterativ mit zunehmend komplexem Inhalt bearbeitet. Ich gebe das Thema vor und benenne die Gesichtspunkte, die Du als Kapitel behandeln sollst.
 
-Kapitel1: Überblick über das Dokument
-hint: sollte einen schnellen Überblick geben, höchstens eine halbe Seite
+**Thema:** Kaizen im Unternehmenskontext  
+**Vorgaben:** Das gesamte Dokument soll im Repository als Reihe von Ordnern mit jeweils einer `.md`-Datei angelegt werden. Es soll sich später möglichst einfach in ein Word-Dokument konvertieren lassen und insgesamt etwa zehn Seiten umfassen. Die Sprache soll sachlich und professionell sein. Zu den einzelnen Kapiteln werden Hinweise geliefert, die sich im Laufe der Zeit verfeinern können. Diese README-Datei dient dauerhaft als Prompt und Auftragsschnittstelle für Codex. Korrigiere stets Rechtschreib- und Grammatikfehler, auch in dieser README. Die Kapitelüberschriften müssen nicht wörtlich übernommen werden, sondern definieren den Inhalt.
 
-Kapitel2: Geschichtlicher Hintergund von Kaizen
-hint: Toyota und Japan
+- **Kapitel 1: Überblick über das Dokument**  
+  *Hinweis:* sollte einen schnellen Überblick geben, höchstens eine halbe Seite.
 
-Kapitel3: Werkzeuge im Einsatz 
-hint: so Dinge wie jira als kanban board oder git sollten erwähnt oder als beispiel für eine
+- **Kapitel 2: Geschichtlicher Hintergrund von Kaizen**  
+  *Hinweis:* Toyota und Japan.
 
-Kapitel4: Vergleich mit SAFe und warum darin eher Muda entstehen kann als wenn man einen PDCA Zyklus etabliert hat
+- **Kapitel 3: Werkzeuge im Einsatz**  
+  *Hinweis:* Werkzeuge wie Jira als Kanban-Board oder Git sollten als Beispiele erscheinen.
 
-Kapitel5: Technische und Kulturelle Schulden im Unternehmen
-hint: wieso ist es so viel schwieriger, kulturelle Schulden abzutragen
+- **Kapitel 4: Vergleich mit SAFe und warum darin eher Muda entstehen kann als bei einem etablierten PDCA-Zyklus**
 
-Kapitel6: Fazit
-hint: hier sollte klar die Vorteile von Kaizen Methoden gegenüber der oft strikt hierarchich organisierten struktur mit meldewesen herausstellen.
+- **Kapitel 5: Technische und kulturelle Schulden im Unternehmen**  
+  *Hinweis:* Warum ist es schwieriger, kulturelle Schulden abzubauen?
+
+- **Kapitel 6: Fazit**  
+  *Hinweis:* Vorteile von Kaizen-Methoden gegenüber streng hierarchischen Strukturen mit Meldewesen klar herausstellen.

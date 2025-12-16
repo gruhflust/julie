@@ -1,0 +1,9 @@
+# Kapitel 2: Geschichtlicher Hintergrund von Kaizen
+
+Der Begriff „Kaizen“ setzt sich aus den japanischen Wörtern „kai“ (Veränderung) und „zen“ (zum Besseren) zusammen. Seine Wurzeln liegen in der japanischen Nachkriegsindustrie, in der kontinuierliche Verbesserung und kollektive Verantwortung entscheidend waren, um mit begrenzten Ressourcen konkurrenzfähige Produkte herzustellen. Toyota prägte den Begriff maßgeblich, indem das Unternehmen Kaizen als kulturelles Grundprinzip verankerte: Jede Mitarbeiterin und jeder Mitarbeiter ist befugt, Abläufe zu hinterfragen und Verbesserungen vorzuschlagen.
+
+Im Toyota Production System (TPS) bildeten Konzepte wie Just-in-Time und Jidoka die strukturelle Basis, während Kaizen die tägliche Verbesserungskultur vorantrieb. Führungskräfte wurden angehalten, regelmäßig Gemba-Walks durchzuführen, um Probleme direkt dort zu verstehen, wo sie auftreten. Diese Praxis stärkte das Vertrauen der Belegschaft und reduzierte die Distanz zwischen strategischer Planung und operativer Realität.
+
+In den 1980er-Jahren verbreitete sich Kaizen international, insbesondere durch die Automobilbranche und Managementliteratur wie Masaaki Imais „Kaizen: Der Schlüssel zum Erfolg im Wettbewerb“. Westliche Unternehmen adaptierten die Methodik, passten sie jedoch häufig punktuell an, wodurch der kontinuierliche Charakter teilweise verwässert wurde. Gerade in stark hierarchischen Strukturen blieb Kaizen oft auf Werkstatt-Ebene begrenzt, während Managemententscheidungen weiterhin top-down getroffen wurden.
+
+Heute ist Kaizen Teil zahlreicher Lean- und Agile-Initiativen. Digitalisierungsprojekte nutzen Kaizen-Prinzipien, um Prozesse iterativ zu verbessern, technische Schulden transparent zu machen und Kundenerlebnisse zu optimieren. Die historische Entwicklung zeigt, dass Kaizen nur dann wirksam bleibt, wenn es als ganzheitliche Haltung verstanden wird: kontinuierlich, partizipativ und nah an der Wertschöpfung.
