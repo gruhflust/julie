@@ -27,3 +27,17 @@ Ziel ist es, für Codex eine Struktur zu schaffen, die direkt zur Texterstellung
 
 - **Kapitel 7: Fazit**  
   *Hinweis:* Vorteile von Kaizen-Methoden gegenüber streng hierarchischen Strukturen mit Meldewesen klar herausstellen.
+
+## Dokument-Build (HTML und DOCX)
+Mit `scripts/build_docs.sh` lässt sich das Kaizen-Dokument aus allen Kapiteln zusammenführen und als HTML-Vorschau sowie als DOCX-Datei erzeugen. Abhängigkeit ist lediglich [pandoc](https://pandoc.org/):
+
+- macOS: `brew install pandoc`
+- Debian/Ubuntu: `sudo apt-get install pandoc`
+
+Beispielaufruf aus dem Repository-Wurzelverzeichnis:
+
+```bash
+./scripts/build_docs.sh
+```
+
+Die erzeugten Dateien liegen in `build/kaizen.html` (Vorschau) und `build/kaizen.docx` (Dokument).

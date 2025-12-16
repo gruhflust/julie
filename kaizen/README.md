@@ -12,3 +12,6 @@ Diese Sammlung fasst die Grundlagen und Anwendung von Kaizen im Unternehmenskont
 - [Kapitel 7: Fazit](07-fazit/fazit.md)
 
 Jedes Kapitel ist so gestaltet, dass es zusammen ungefähr fünfzehn Seiten ergibt. Die Hinweise aus der ursprünglichen Aufgabenstellung wurden berücksichtigt. Die Ordner sind fortlaufend nummeriert und spiegeln die Kapitelreihenfolge wider.
+
+## Dokument automatisch erstellen
+Das Skript `../scripts/build_docs.sh` fasst alle Kapitel in numerischer Reihenfolge zusammen und erzeugt in `build/` eine HTML-Vorschau (`kaizen.html`) sowie ein DOCX-Dokument (`kaizen.docx`). Voraussetzung ist pandoc (macOS: `brew install pandoc`, Debian/Ubuntu: `sudo apt-get install pandoc`).
