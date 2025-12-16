@@ -1,4 +1,4 @@
-# Kapitel 6: Fazit
+# Kapitel 7: Fazit
 
 Kaizen bietet Unternehmen einen klaren Vorteil gegenüber starr hierarchischen Steuerungsmodellen: Es verbindet kontinuierliche Verbesserung mit einer Kultur, die Mitarbeitende befähigt. Kurze PDCA-Zyklen halten Feedbackschleifen klein, wodurch Fehler schneller erkannt, Muda reduziert und Kundennutzen früher realisiert werden.
 
